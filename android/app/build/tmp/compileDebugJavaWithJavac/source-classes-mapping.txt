@@ -1,0 +1,14 @@
+com/thereact/BuildConfig.java
+ com.thereact.BuildConfig
+com/thereact/MainActivity.java
+ com.thereact.MainActivity
+com/thereact/ReactNativeFlipper.java
+ com.thereact.ReactNativeFlipper
+ com.thereact.ReactNativeFlipper$1
+ com.thereact.ReactNativeFlipper$2
+ com.thereact.ReactNativeFlipper$2$1
+com/thereact/MainApplication.java
+ com.thereact.MainApplication
+ com.thereact.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
